@@ -7,7 +7,7 @@
 + 관련 자격증 기출문제를 풀 수 있으며 모르는 부분은 질문/답변게시판에서 도움을 받을 수 있음
 
 ## 사용기술 및 개발 환경
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 ## 구현 기능 
 
@@ -44,9 +44,9 @@
 ## 설계 주안점
 + 사이트의 디자인과 게시물들을 깔끔한 레이아웃으로 한 눈에 알아보기 쉽게 디자인함
 + IT관련 자격증의 기출문제를 풀어볼 수 있는 게시판을 제작하여 문제를 다운 받지 않고도 풀어볼 수 있는 기능을 구현
-+ 질문/답변 게시판에서 코드를 복사할여 올리는 방식과 파일형식으로 업로드하는 두 가지 기능을 구현해 다양한 방식으로 답변 가능하도록 구현
 + 서적을 추천할 수 있는 기능 구현
 + IT관련 채용정보를 제공
++ 질문/답변 게시판에서 코드를 복사할여 올리는 방식과 파일형식으로 업로드하는 두 가지 기능을 구현해 다양한 방식으로 답변 가능하도록 구현
 
 
 
