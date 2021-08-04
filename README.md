@@ -45,6 +45,7 @@
   * 문제 하단의 정답을 클릭하면 숨겨 있던 정답이 보이게 되고 다시 클릭하면 정답을 가릴 수 있음
 <hr>
 
+
 <img width="280" alt="서적리스트" src="https://user-images.githubusercontent.com/71073027/128125792-675c5b66-5758-49ba-a5d8-c763bdcb7bf8.png">  <img width="300"  height="400" alt="서적작성" src="https://user-images.githubusercontent.com/71073027/128122430-99fb82d8-e88e-4b76-8659-a98ba6e7a6ed.png">    <img width="300" height="400" alt="ㅇㅁㄴㅇㅁㄴㅇ" src="https://user-images.githubusercontent.com/71073027/128123419-a8683fbd-6e2b-445a-ba43-f23945a2f855.png">
 
 * 추천 it 서적 게시판
@@ -63,6 +64,15 @@
   * 서적 내용은 130자 제한을 두어 간략한 내용만 담도록 구현
   * 추천하는 서적의 빠르게 파악할 수 있게 추천 기능 구현
   * 서적에 대한 자유로운 의견을 공유할 수 있도록 댓글 기능 구현
+<hr>
+
+<img width="310"  height="300" alt="공지사하아" src="https://user-images.githubusercontent.com/71073027/128147500-383bbc47-5c01-4ed3-a286-2a39ef088565.png"> <img width="310"   height="300" alt="스터디모집" src="https://user-images.githubusercontent.com/71073027/128147540-7f85422b-9c25-4ac7-96a7-8de908b63d53.png"> <img width="310"  height="300" alt="자유글" src="https://user-images.githubusercontent.com/71073027/128147604-db78fae0-483c-4813-a027-dd5119373765.png">
+
+* 공지사항/자유글/스터디모집 게시판
+  * 공지사항은 관리자만이 글 작성/삭제가 가능하며 사용자는 조회 및 댓글 작성만 가능
+  * 자유글은 모든 사용자가 자유롭게 게시물을 올리고 소통할 수 있는 공간으로 글 작성 및 댓글 작성 가능
+  * 스터디 모집은 스터디 모집을 목적의 가지고 글을 올리고 지역을 선택할 수 있음
+
 <hr>
 
 
