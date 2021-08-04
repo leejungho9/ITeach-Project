@@ -18,26 +18,21 @@
 + 공지사항/ 자유 게시글/ 스터디 모집 게시판 조회 및 작성 
 
 ## 핵심 특징
-<img src ="https://user-images.githubusercontent.com/73329610/127971641-2dd3fb6b-cca2-45a2-a027-9458d160770b.png" width="50%" height="50%">
+<img width="410" alt="메인페이지" src="https://user-images.githubusercontent.com/71073027/128118115-b3e1f089-17eb-4cb3-bec7-4651573b8736.png" width="50%" height="50%" border= "1px solid gray">
 
 * 사이트의 메인페이지 
   * 가로 배너의 시작하기 버튼을 누르면 회원가입 페이지로 넘어감
   * 채용 글을 올린 회사의 이미지와 추천 서적의 이미지를 최신순으로 보여줌
   * +더보기 버튼을 클릭하면 각 게시물 리스트로 넘어가며 모든 채용 정보 및 서적의 게시물을 볼 수 잇음
   
-
-<img src ="https://user-images.githubusercontent.com/73329610/127974742-1663bc4d-71cd-425e-8763-941a8cf35dda.png" width="50%" height="50%">
+<img width="300" height="450" alt="기출문제1" src="https://user-images.githubusercontent.com/71073027/128122723-ef1e2a05-fcc9-447d-89c6-efb853fb785e.png"  width="50%"  height="50%"><img width="300"  height="350"alt="기출문제4" src="https://user-images.githubusercontent.com/71073027/128122750-909a1f4c-c9da-449d-9a70-93a53da54e55.png"  width="50%" height="50%">
 
   * 사용자가 해당 페이지에서 레시피를 추가할 수 있는 기능
   * 레시피를 추가하면 메인페이지에 레시피가 노출
   * 자신이 작성한 레시피는 마이 페이지에서 확인 가능 
 
 
-<img src ="https://user-images.githubusercontent.com/73329610/127976877-28bc7642-c581-4fc9-8821-58858b6d2363.png" width="50%" height="50%"><img src ="https://user-images.githubusercontent.com/73329610/127976609-e0288243-c94a-455a-9c74-b7dc77d02d83.png" width="50%" height="50%">
-
-* 사용자가 설문조사를 작성하면 DB에 저장되고 , 설문조사를 구글 통계 API를 이용하여 집계처리
-* 설문조사를 통해  사용자들의 연령이나 성별과 연관시켜서 연령이나 성별에 따른 식습관이나 트렌드 파악
-  
+<img width="300" alt="서적작성" src="https://user-images.githubusercontent.com/71073027/128122430-99fb82d8-e88e-4b76-8659-a98ba6e7a6ed.png"><img width="300" alt="입력" src="https://user-images.githubusercontent.com/71073027/128122469-caea1cd0-dd11-4293-999c-f19b7b53acb8.png"><img width="300" alt="서적상세" src="https://user-images.githubusercontent.com/71073027/128122485-690b31a9-6d6f-4f71-8103-10fd3abe3c1b.png">
 
 ## 설계 주안점
 + 질문/답변 게시판에 코드 복사해서 올리는 방식과 파일형식으로 업로드하는 두 가지 기능을 구현해 다양한 방식으로 답변 가능하도록 구현
