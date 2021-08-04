@@ -48,7 +48,7 @@
   * 기출문제에 대한 자유로운 의견을 공유할 수 있도록 댓글 기능 구현
 <hr>
 
-<img width="280" alt="서적리스트" src="https://user-images.githubusercontent.com/71073027/128125792-675c5b66-5758-49ba-a5d8-c763bdcb7bf8.png">  <img width="300"  height="400" alt="서적작성" src="https://user-images.githubusercontent.com/71073027/128122430-99fb82d8-e88e-4b76-8659-a98ba6e7a6ed.png">    <img width="300" height="400" alt="ㅇㅁㄴㅇㅁㄴㅇ" src="https://user-images.githubusercontent.com/71073027/128123419-a8683fbd-6e2b-445a-ba43-f23945a2f855.png">
+<img width="300" height="400" alt="서적리스트" src="https://user-images.githubusercontent.com/71073027/128125792-675c5b66-5758-49ba-a5d8-c763bdcb7bf8.png">  <img width="300"  height="400" alt="서적작성" src="https://user-images.githubusercontent.com/71073027/128122430-99fb82d8-e88e-4b76-8659-a98ba6e7a6ed.png">    <img width="300" height="400" alt="ㅇㅁㄴㅇㅁㄴㅇ" src="https://user-images.githubusercontent.com/71073027/128123419-a8683fbd-6e2b-445a-ba43-f23945a2f855.png">
 
 * 추천 IT 서적 게시판
   * 관리자만이 글 작성/삭제가 가능하며 서적 이미지와 정보를 올릴 수 있음
