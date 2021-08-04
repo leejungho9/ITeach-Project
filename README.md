@@ -20,13 +20,22 @@
 + 서적 게시판에서 IT관련 추천 서적 조회 및 추천 
 + 공지사항/ 자유 게시글/ 스터디 모집 게시판 조회 및 작성 
 
-## 핵심 특징
+## 핵심 내용
 <img width="500" alt="메인페이지" src="https://user-images.githubusercontent.com/71073027/128118115-b3e1f089-17eb-4cb3-bec7-4651573b8736.png" width="50%" height="50%" border= "1px solid gray">
 
 * 사이트의 메인페이지 
   * 가로 배너의 시작하기 버튼을 누르면 회원가입 페이지로 넘어감
   * 채용 글을 올린 회사의 이미지와 추천 서적의 이미지를 최신순으로 보여줌
   * +더보기 버튼을 클릭하여 모든 채용 정보 및 서적의 게시물을 볼 수 있음
+<hr>
+
+<img width="430" alt="질문답변2" src="https://user-images.githubusercontent.com/71073027/128137946-7f770c8b-f3ae-4720-bd2f-2d578dd4d29a.png"> <img width="430" alt="질문답변" src="https://user-images.githubusercontent.com/71073027/128137953-b9a35e82-b656-48ca-a05a-41fca68f653a.png">
+<img width="430" alt="문법" src="https://user-images.githubusercontent.com/71073027/128138000-4c950996-fc22-4443-8fbf-1b3dc848e1eb.png">
+
+* 기출문제 작성 게시판
+  * 관리자만 글 작성/수정/삭제가 가능하며 기출문제와 답안을 첨부할 수 있음
+  * 다섯 개의 문제를 예시로 올려 사용자들이 다운 받기 전 문제를 풀어볼 수 있음
+  * 문제 하단의 정답을 클릭하면 숨겨 있던 정답이 보이게 되고 다시 클릭하면 정답을 가릴 수 있음
 <hr>
 
 <img width="400" alt="기출문제1" src="https://user-images.githubusercontent.com/71073027/128122723-ef1e2a05-fcc9-447d-89c6-efb853fb785e.png">  <img width="400" alt="기출문제4" src="https://user-images.githubusercontent.com/71073027/128122750-909a1f4c-c9da-449d-9a70-93a53da54e55.png"  width="50%" height="50%">
